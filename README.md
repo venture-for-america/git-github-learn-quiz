@@ -1,4 +1,4 @@
-# Enough Git for Learn
+# Learning Git Quiz
 
 ## Overview 
 
